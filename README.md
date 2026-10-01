@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wisezino.vercel.app" target="_blank">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://wisezino.vercel.app" target="_blank">Website</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/wise-ewomazino-6b13b3405" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:flashwise1@gmail.com">Email</a>
 </p>
